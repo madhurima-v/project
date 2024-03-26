@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hero{
+    text-align: center;
+}
+
+
+.hero h1{
+    margin: 30px 0;
+}
+
+.line{
+    border: 2px solid black;
+}
+
+form{
+    margin-top: 50px;
+}
+
+label{
+    font-size: 20px;
+}
+
+input{
+    width: 200px;
+    height: 20px;
+}
+
+button{
+    width: 200px;
+    height: 30px;
+    border-radius: 50px;
+    background: transparent;
+}
